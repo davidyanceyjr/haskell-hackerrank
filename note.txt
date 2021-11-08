@@ -1,0 +1,1 @@
+A few examples of hackerrank problems worked with haskell solutions.
