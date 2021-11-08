@@ -10,12 +10,6 @@ main = do
     userInput <- getContents
     putStrLn $ canConvert $ lines userInput
 
--- convert input string to list of strings.
--- ||||||||||||||||||||||||||||||||||||||||
-formatInput :: [String] -> [[String]]
-formatInput [] = [] 
-formatInput scoresAsStrings = chunksOf 3 scoresAsStrings
-
 -- convert original string into mutated string.
 -- input: list containing original string and string to convert to..
 -- ouput: yes | no -- if original can be converted
