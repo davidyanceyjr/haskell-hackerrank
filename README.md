@@ -7,5 +7,5 @@ Not all the code included in solutions is mine. In some files I included solutio
 to research or just plain couldn't solve the problem with my skills. I like to include the solutions
 for study and in some cases - where I found a solution - compare my solution with others.
 
-I did study the solutions to the problems, looking at several languages. I learned the terseness 
-of Haskell was spoiling me for sure.
+I did study the solutions to the problems, looking at several languages.
+Haskell has a special place in my coded heart.
